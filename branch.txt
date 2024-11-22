@@ -1,0 +1,12 @@
+-> BRANCH
+
+Cabang Utama (Master Branch)
+percabangan ini independen, bisa jalan dengan commitnya sendiri
+ini dilakukan ketika ingin membuat fitur  baru pada repo
+tanpa mengubah master branchnya
+
+BRANCHING
+    1. Membuat Git Branch
+    2. Membuat snapshot tanpa mengganggu jalur Utama (Master Branch)
+    3. fitur Experimental
+    4. 2 Orang mengerjakan repo yang sama
