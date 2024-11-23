@@ -1,0 +1,7 @@
+FORKING --> duplikat dari repo orang lain 
+    1. Membuat "copy/duplikat" dari repo orang lain (beserta
+    historynya)
+    2. Jembatan Antara repo original dan duplikatnya
+    3. Modifikasi Terhadap Repo Original
+    4. Berkontribusi pada repo orang lain
+    5. FORK TIDAK SAMA DENGAN CLONE
